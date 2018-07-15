@@ -1,5 +1,5 @@
 // import * as api from '../utils/fetch';
-import {getVipList} from '../utils/getVipList"
+import {getVipList} from "../utils/getVipList"
 
 export function getAllVideoSource(){
   return (dispatch) => {
